@@ -21,8 +21,8 @@ gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
 group :development do
-	gem 'better-errors'
-	gem 'quiet-assets'
-	gem 'rails-layout'
+	gem 'better_errors'
+	gem 'quiet_assets'
+	gem 'rails_layout'
 end
 
